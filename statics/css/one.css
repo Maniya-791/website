@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sawera{
+    width: 40%;
+    height: 90%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
